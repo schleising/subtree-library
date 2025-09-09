@@ -1,1 +1,2 @@
-print("This is file2.py in folder2")
+def print_version():
+    print("This is file2.py in folder2")
